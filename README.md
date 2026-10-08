@@ -6,6 +6,8 @@ features.
 
 This is a test project just to test my abilities....
 
+Link ->  https://7picrydptsglx3xnnfgkeh.streamlit.app/
+
 ## Features
 - CGPA
 - Internships
